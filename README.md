@@ -1,1 +1,2 @@
-# paper-in-the-bin
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
